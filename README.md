@@ -78,19 +78,19 @@ Displays average Driver Rating and Customer Rating broken down per vehicle type,
 ## 🖥️ Screenshots
 
 ### Overall Dashboard
-![Overall Dashboard](screenshots/overall.png)
+![Overall Dashboard](screenshots/overall.jpg)
 
 ### Vehicle Type Analysis
-![Vehicle Type](screenshots/vehicle_type.png)
+![Vehicle Type](screenshots/vehicle_type.jpg)
 
 ### Revenue & Payment Breakdown
-![Revenue](screenshots/revenue.png)
+![Revenue](screenshots/revenue.jpg)
 
 ### Cancellation Analysis
-![Cancellation](screenshots/cancellation.png)
+![Cancellation](screenshots/cancellation.jpg)
 
 ### Ratings Dashboard
-![Ratings](screenshots/ratings.png)
+![Ratings](screenshots/ratings.jpg)
 
 > 📁 **How to add screenshots:** Create a `screenshots/` folder in your repo root and upload each dashboard page image with the filenames used above.
 
@@ -126,31 +126,11 @@ OLA-PowerBI-Dashboard/
 ├── OLA.pbix                  # Main Power BI file
 ├── README.md                 # Project documentation
 └── screenshots/
-    ├── overall.png
-    ├── vehicle_type.png
-    ├── revenue.png
-    ├── cancellation.png
-    └── ratings.png
+    ├── overall.jpg
+    ├── vehicle_type.jpg
+    ├── revenue.jpg
+    ├── cancellation.jpg
+    └── ratings.jpg
 ```
 
----
 
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open `OLA.pbix` in **Power BI Desktop** (free download from Microsoft).
-3. Use the date slicer on each page to filter by your desired period.
-4. Navigate between pages using the left sidebar or the tab bar at the bottom.
-
----
-
-## 👨‍💻 Author
-
-**[Your Name]**  
-Data Analyst | Power BI Developer  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com) | [Portfolio](https://yourportfolio.com)
-
----
-
-## ⭐ If this project helped you or inspired your own work, give it a star!
